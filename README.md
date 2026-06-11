@@ -1,3 +1,6 @@
+
+
+
 > [!warning]
 > This is a personal project and contains demo data
 
@@ -6,8 +9,7 @@
 A Financial Advisory Platform using Multi Agent architecture with agents communicating via A2A protocol. Agents have access to mcp tools and can use them to generate fine-grained, curated reports for the users. 
 
 # Demo Video
-
-![Video](assets/Finitrix.mov)
+https://github.com/user-attachments/assets/63e4cc76-aa13-4046-a849-3cd1c28e27e9
 
 # Current Look
 
