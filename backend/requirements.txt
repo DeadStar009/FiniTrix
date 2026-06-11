@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn[standard]
+pydantic==2.11.7
+numpy==2.0.1
+httpx==0.28.1
+faker==26.0.0
+fastmcp==2.14.7
+python-dotenv
